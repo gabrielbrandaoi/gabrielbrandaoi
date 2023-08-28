@@ -1,8 +1,7 @@
-- 👋 Hello my name is Gabriel Brandão and welcome to my profile
-
-- 🌱 Studying React, Vue and MongoDB
-- 👯 Currently working on developing a website and completing projects on the side!
-- 💬 Always looking for ways to improve learning and always looking for new knowledge in the area of ​​technology
+-  Hello my name is Gabriel Brandão and welcome to my profile
+-  Studying Python, Java and MongoDB
+-  Currently working on developing a website and completing projects on the side!
+-  Always looking for ways to improve learning and always looking for new knowledge in the area of ​​technology
 
 ##
 
